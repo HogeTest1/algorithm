@@ -1,4 +1,4 @@
-range = 1..30
+range = 1..100
 range.to_a.each do |num|
   case
   when (num % 15) == 0
