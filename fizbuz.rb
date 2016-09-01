@@ -1,5 +1,5 @@
 range = 1..100
-range.to_a.each do |num|
+range.each do |num|
   case
   when (num % 15) == 0
     puts "FizzBuzz"
