@@ -1,1 +1,3 @@
 alert("hoge");
+alert("foo");
+
