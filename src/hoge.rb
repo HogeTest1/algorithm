@@ -1,3 +1,5 @@
+require 'byebug'
+require 'pry'
 
 class Hoge
 
@@ -6,5 +8,5 @@ class Hoge
       puts 'hoge'
     end
   end
-
+binding.pry
 end
