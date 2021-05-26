@@ -15,3 +15,8 @@ bundle install --path vendor/bundle # Gemfile.lock作成とインストール
 ### pry-byebug usage
 (ex. bundle exec ruby hoge.rb 
 
+# fizzbuzz
+# dddd
+# test
+# testtest
+# fizzbuzz
