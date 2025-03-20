@@ -1,5 +1,11 @@
 # algorithm
 
+## Githubでのpush方法が変わった
+- git push origin master
+- IDを聞かれるので「HogeTest1」を入力
+- パスワードを聞かれるのでアクセストークンを入力 => これでpushできる
+- git config credential.helper store でIDとパスワードを保存できる
+
 ## Start
 cd src
 bundle init # Gemfileを作成
